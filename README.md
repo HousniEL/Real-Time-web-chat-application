@@ -1,6 +1,6 @@
-# Application WebChat
+# Real-time web chat application
 
-### It allows users to communicate with each other in real time, either through messages, with the possibility of sending attached files .
+### It allows users to send friendship requests to others and communicate with them in real time, with the possibility of sending attached files.
 
 #### To Run it :
     1. run cmd 'npm install' seperatly in each folders ;
